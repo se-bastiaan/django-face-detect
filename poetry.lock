@@ -448,7 +448,7 @@ botocore = ">=1.12.36,<2.0a.0"
 
 [[package]]
 name = "sentry-sdk"
-version = "0.20.0"
+version = "1.0.0"
 description = "Python client for Sentry (https://sentry.io)"
 category = "main"
 optional = false
@@ -542,7 +542,7 @@ testing = ["pytest (>=3.5,!=3.7.3)", "pytest-checkdocs (>=1.2.3)", "pytest-flake
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "0000e30e3604b630cc1486a6d75453e7efd5ddc12a4b26f57bc1a4e466850c81"
+content-hash = "2fb9ad9d81c7239c45a3097489dc31be9578a2c039a64079b25e0f000af9de96"
 
 [metadata.files]
 appdirs = [
@@ -860,8 +860,8 @@ s3transfer = [
     {file = "s3transfer-0.3.3.tar.gz", hash = "sha256:921a37e2aefc64145e7b73d50c71bb4f26f46e4c9f414dc648c6245ff92cf7db"},
 ]
 sentry-sdk = [
-    {file = "sentry-sdk-0.20.0.tar.gz", hash = "sha256:31871a1c18547cafa7b75064c6391aa517b15468fda7b644ccb149decccb9d44"},
-    {file = "sentry_sdk-0.20.0-py2.py3-none-any.whl", hash = "sha256:012f2c8f40a504e2d68d045f72a2fd63814acb61ea6db5014df75573077b5ceb"},
+    {file = "sentry-sdk-1.0.0.tar.gz", hash = "sha256:71de00c9711926816f750bc0f57ef2abbcb1bfbdf5378c601df7ec978f44857a"},
+    {file = "sentry_sdk-1.0.0-py2.py3-none-any.whl", hash = "sha256:9221e985f425913204989d0e0e1cbb719e8b7fa10540f1bc509f660c06a34e66"},
 ]
 six = [
     {file = "six-1.15.0-py2.py3-none-any.whl", hash = "sha256:8b74bedcbbbaca38ff6d7491d76f2b06b3592611af620f8426e82dddb04a5ced"},
